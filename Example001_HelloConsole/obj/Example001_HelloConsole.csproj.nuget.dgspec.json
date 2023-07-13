@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "d:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "d:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "d:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "D:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "d:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Sonia\\.nuget\\packages\\",
-        "outputPath": "D:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "d:\\Doc\\VS code C#\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sonia\\AppData\\Roaming\\NuGet\\NuGet.Config"
